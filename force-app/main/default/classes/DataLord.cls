@@ -96,5 +96,5 @@ public with sharing class DataLord {
     
         // Update the Contacts with their assigned Account
         update contactsToAssign;
-    }
+    }    
 }
